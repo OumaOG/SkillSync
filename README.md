@@ -32,7 +32,7 @@
 ## 🚀 Quickstart
 
 ```bash
-git clone https://github.com/dein-nutzername/skillsync.git
+git clone https://github.com/OumaOG/skillsync.git
 cd skillsync/backend
 
 # Virtuelle Umgebung erstellen
