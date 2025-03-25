@@ -1,0 +1,10 @@
+# Verzeichnisse
+__pycache__/
+venv/
+.env
+
+# Sonstiges
+*.pyc
+*.pyo
+*.log
+.DS_Store

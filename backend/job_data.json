@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Frontend Entwickler bei TechCorp",
+        "company": "TechCorp",
+        "required_skills": ["JavaScript", "React", "CSS"]
+    },
+    {
+        "title": "Backend Developer - Python",
+        "company": "DataSoft",
+        "required_skills": ["Python", "FastAPI", "SQL"]
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "CloudGen",
+        "required_skills": ["Docker", "CI/CD", "AWS"]
+    }
+]
